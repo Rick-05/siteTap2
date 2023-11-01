@@ -7,7 +7,7 @@ body{
 
 h1, h2, h3 {
     font-family: Asap, sans-serif;
-    color: #000000;
+    color: #FFFFFF;
 }
 
 .botao {
@@ -141,6 +141,10 @@ header p {
 
 #container > div {
     background-color: #151515;
+}
+
+#container > div > p {
+    color: #9ca3af;
 }
 
 .projetos-content{
